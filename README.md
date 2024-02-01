@@ -1,4 +1,4 @@
-# DualICA
+# DualICA Scripts
 
 Dual ICA script:
 > python3 dual_ICA.py lfcs_data categories_data NCIC NGIC
